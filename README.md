@@ -44,7 +44,7 @@
 ```
 # Site settings
 title: Jin Blog                    # 你的博客网站标题
-SEOTitle: 金春城的博客 | BY Blog		# SEO 标题
+SEOTitle: 金春城的博客 | Jin Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
@@ -69,7 +69,7 @@ layout:     post
 title:      定时器 你真的会使用吗？
 subtitle:   iOS定时器详解
 date:       2016-12-13
-author:     BY
+author:     Jin
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
@@ -141,7 +141,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 # Friends
 friends: [
     {
-        title: "BY Blog",
+        title: "Jin Blog",
         href: "https://qiubaiying.github.io/"
     },
     {
