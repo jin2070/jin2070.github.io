@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      从一道网易面试题浅谈 Tagged Pointer
+title:      浅谈 Tagged Pointer
 subtitle:   浅谈 Tagged Pointer
-date:       2017-12-26
-author:     BY
-header-img: img/post-bg-universe.jpg
+date:       2017-6-17
+author:     Jin
+header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - iOS
+    - obj
 ---
 
 
