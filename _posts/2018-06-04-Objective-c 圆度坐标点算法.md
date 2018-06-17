@@ -2,7 +2,7 @@
 layout:     post
 title:      圆度坐标点算法
 subtitle:   常量符号
-date:       2017-6-4
+date:       2018-6-4
 author:     Jin
 header-img: img/post-bg-hacker.jpg
 catalog: true

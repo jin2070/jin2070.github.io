@@ -2,7 +2,7 @@
 layout:     post
 title:      Objective-c 整数余数 & 随机数
 subtitle:   逻辑运算符
-date:       2017-6-2
+date:       2018-6-2
 author:     Jin
 header-img: img/post-bg-hacker.jpg
 catalog: true

@@ -2,7 +2,7 @@
 layout:     post
 title:      Objective-c 格式化输出
 subtitle:   常量符号
-date:       2017-6-3
+date:       2018-6-3
 author:     Jin
 header-img: img/post-bg-hacker.jpg
 catalog: true
