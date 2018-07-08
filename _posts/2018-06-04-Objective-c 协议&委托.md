@@ -7,7 +7,7 @@ author:     Jin
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Objective-c
+    - Obj-语法
 ---
 
 

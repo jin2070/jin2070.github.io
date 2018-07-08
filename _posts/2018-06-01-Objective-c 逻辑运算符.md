@@ -7,7 +7,7 @@ author:     Jin
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Objective-c
+    - Obj-逻辑运算
 ---
 运算符可以分为以下几种:
 
