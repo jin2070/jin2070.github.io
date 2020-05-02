@@ -13,7 +13,7 @@ github_repo: "https://github.com/jin2070/jin2070.github.io.git" # you code repos
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "what you going to be!"
 
-sidebar-avatar: /img/myson.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/logo0929.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 # SNS settings
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "CK",
-        href: "http://zhengwuyang.com"
+        title: "ASM",
+        href: "https://searchads.apple.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "约拿的家",
+        href: "http://bbs.jonahome.net/forum.php"
     },{
         title: "Apple",
         href: "https://apple.com"
