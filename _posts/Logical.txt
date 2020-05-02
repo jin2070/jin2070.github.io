@@ -1,0 +1,40 @@
+NSLog(@"%@",_navBarHidden?@"yes":@"no");
+CGFloat f = 123.12345; 
+NSString *str=[NSString stringWithFormat:@”%.2f”, f]; 
+
+%ld  NSIntger
+%@ Object
+%d, %i signed int
+%u unsigned int
+%f float/double
+%x, %X hexadecimal int
+%o octal int
+%zu size_t
+%p pointer
+%e float/double (in scientific notation)
+%g float/double (as %f or %e, depending on value)
+%s C string (bytes)
+%S C string (unichar)
+%.*s Pascal string (requires two arguments, pass pstr[0] as the first, pstr+1 as the second)
+%c character
+%C unichar
+%lld long long
+%llu unsigned long long
+%Lf long double
+%@     对象
+%d, %i 整数
+%u     无符整形
+%f     浮点/双字
+%x, %X 二进制整数
+%o     八进制整数
+%zu    size_t
+%p     指针
+%e     浮点/双字 （科学计算）
+%g     浮点/双字 
+%s     C 字符串
+%.*s   Pascal字符串
+%c     字符
+%C     unichar
+%lld   64位长整数（long long）
+%llu   无符64位长整数
+%Lf    64位双字
