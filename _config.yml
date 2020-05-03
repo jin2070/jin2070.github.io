@@ -1,11 +1,10 @@
 # Site settings
-title: Jin Blog
-SEOTitle: 金春城的博客 | Jin Blog
+title: Bible Study with Charts
+SEOTitle: 圣经知识汇总 | Bible Study with Charts
 header-img: img/post-bg-hacker.jpg
 email: chskim@163.com
 description: "Don't forget what is the knowledge starting "
-keyword: "JIN, jin Blog, 金春城的博客, jin2070, 金春城, iOS, Apple, objective"
-url: "http://jin2070.github.io"          # your host, for absolute URL
+keyword: "圣经,新约,微读圣经,中文版和合,精读,赞美诗,bible,holy,福音,诗歌,教堂,图表,旧约,新约,灵修,唯独,祷告,雅歌,创世纪,亚伯拉罕,以色列,布道"         # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jin2070/jin2070.github.io.git" # you code repository
 
