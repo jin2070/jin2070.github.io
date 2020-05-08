@@ -14,7 +14,7 @@ tags: Pentateuch
 
 Clean and Unclean Food
 
-     The Lord said to Moses and Aaron, 2 “Say to the Israelites: ‘Of all the animals that live on land, these are the ones you may eat: 3 You may eat any animal that has a divided hoof and that chews the cud.
+The Lord said to Moses and Aaron, 2 “Say to the Israelites: ‘Of all the animals that live on land, these are the ones you may eat: 3 You may eat any animal that has a divided hoof and that chews the cud.
  
  ![](https://jin2070.github.io/img/103001.png)
  
