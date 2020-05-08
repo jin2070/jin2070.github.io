@@ -1,10 +1,10 @@
 # Site settings
-title: 圣经知识汇总
-SEOTitle: 圣经知识汇总 | Bible Study with Charts
+title: Bible Chart
+SEOTitle: Bible Study with Charts
 header-img: img/post-bg-hacker.jpg
 email: chskim@163.com
 description: "Don't forget what is the knowledge starting "
-keyword: "圣经,新约,微读圣经,中文版和合,精读,赞美诗,bible,holy,福音,诗歌,教堂,图表,旧约,新约,灵修,唯独,祷告,雅歌,创世纪,亚伯拉罕,以色列,布道"         # your host, for absolute URL
+keyword: "bible,kjv,niv,holy,pray,chart,church,christian,daily,faith,verse,esv,gospel"         # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jin2070/jin2070.github.io.git" # you code repository
 
@@ -18,8 +18,8 @@ sidebar-avatar: /img/logo0929.png      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     jinchuncheng
-zhihu_username:     jinchuncheng
-github_username:    jinchuncheg
+zhihu_username:     Ethan
+github_username:    Ethan
 facebook_username:  jin2070.github.io
 jianshu_username:   e71990ada2fd
 #twitter_username:   jinchuncheng
@@ -101,8 +101,8 @@ friends: [
         title: "ASM",
         href: "https://searchads.apple.com"
     },{
-        title: "约拿的家",
-        href: "http://bbs.jonahome.net/forum.php"
+        title: "World English Bible",
+        href: "https://worldenglish.bible/"
     },{
         title: "Apple",
         href: "https://apple.com"
