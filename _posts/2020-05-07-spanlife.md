@@ -7,7 +7,6 @@ author:  Ethan
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags: Pentateuch
-    - 
 ---
 
 
