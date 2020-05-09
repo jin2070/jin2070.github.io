@@ -1,7 +1,7 @@
 ---
 layout:     post
 title: Clean and unclean food
-subtitle:   Bible Study with Charts
+subtitle:   Pentateuch
 date: 2020-5-7
 author:  Ethan
 header-img: img/post-bg-hacker.jpg
