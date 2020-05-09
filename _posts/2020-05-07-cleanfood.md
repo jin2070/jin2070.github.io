@@ -1,7 +1,7 @@
 ---
 layout:     post
 title: Clean and unclean food
-subtitle:   server
+subtitle:   Bible Study with Charts
 date: 2020-5-7
 author:  Ethan
 header-img: img/post-bg-hacker.jpg
