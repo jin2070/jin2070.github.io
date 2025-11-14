@@ -1,10 +1,10 @@
 # Site settings
-title: Bible Study with Charts
-SEOTitle: Bible Study with Charts
+title: Loop Chinese
+SEOTitle: Loop Chinese
 header-img: img/post-bg-hacker.jpg
 email: chskim@163.com
 description: "Don't forget what is the knowledge starting "
-keyword: "bible,kjv,niv,holy,pray,chart,church,christian,daily,faith,verse,esv,gospel"         # your host, for absolute URL
+keyword: "Chinese,Learning"         # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jin2070/jin2070.github.io.git" # you code repository
 
